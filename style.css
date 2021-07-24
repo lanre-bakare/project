@@ -1,0 +1,289 @@
+.navbar {
+    position: fixed;
+    width: 100%;
+    z-index: 99999999;
+    background: #ffffff;
+    top: 0;
+}
+
+.nav-link {
+    margin: 10px;
+    font-size: 17px;
+    font-weight: 400;
+    color: #403e3e !important
+}
+
+body {
+        font-family: 'Ubuntu', sans-serif;
+        overflow-x: hidden;
+    }
+
+.move {
+    padding-top: 170px;
+}
+
+#Box {
+    box-sizing: border-box;
+    border-radius: 10px 10px 10px 10px;
+    /* background: red; */
+    height: 250px;
+    padding: 15px;
+    margin-top: 20px;
+}
+.walker {
+    background: linear-gradient(90deg, rgba(243,55,55,1) 57%, rgba(240,106,55,0.8869922969187675) 93%, rgba(240,106,55,0.7973564425770308) 99%);
+    height: 410px;
+    margin-top: 70px;
+}
+
+.click {
+    background-color: #f33737;
+    border-radius: 13px;
+    color: white;
+    width: 180px;
+    height: 48px;
+    font-weight: 200;
+}
+
+.add {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.expect {
+    color: rgb(240, 236, 236);
+    padding-top: 40px;
+    font-weight: 400;
+}
+
+#Box1 {
+    box-sizing: border-box;
+    border-radius: 20px 20px 20px 20px;
+    background: white;
+    height: 320px;
+    margin-top: 7rem;
+    box-shadow: 0px 0px 1px 1px #f33737;
+    padding: 20px;
+}
+
+#Box2 {
+    box-sizing: border-box;
+    border-radius: 20px 20px 20px 20px;
+    background: white;
+    height: 365px;
+    margin-top: 7rem;
+    box-shadow: 0px 0px 1px 1px #f33737;
+    padding: 20px;
+}
+
+#Box3 {
+    box-sizing: border-box;
+    border-radius: 20px 20px 20px 20px;
+    background: white;
+    height: 290px;
+    margin-top: 7rem;
+    box-shadow: 0px 0px 1px 1px #f33737;
+    padding: 20px;
+}
+
+.Box4 {
+    background-color: #fff5f5;
+}
+
+.Box5 {
+    background-color: #f3fff3;
+}
+.Box6 {
+    background-color: #ffffee;
+}
+.Box7 {
+    background-color: #f5f5ff;
+}
+
+#ghost {
+    box-sizing: border-box;
+    border-radius: 20px 20px 20px 20px;
+    background: white;
+    height: 400px;
+    margin-top: 7rem;
+    box-shadow: 1px 1px 1px 1px #f33737;
+    padding: 34px;
+    margin-bottom: 40px;
+}
+
+.afford {
+    width: 70px;
+}
+
+.wall {
+    font-family: 'Ubuntu', sans-serif;
+    padding-top: 45px;
+    padding-left: 10px;
+}
+
+.roman {
+    font-weight: 800;
+    font-size: 47px;
+    color: black;
+    letter-spacing: 1px;
+}
+
+.cap {
+    font-weight: 400;
+    font-size: 30px;
+    letter-spacing: 1px;
+}
+
+.sub {
+    font-weight: 100;
+    font-size: 17px;
+} 
+
+.pics {
+    width: 120%;
+}
+
+.more {
+    font-weight: 400
+}
+
+.morse {
+    text-align: justify;
+    font-weight: 200;
+    padding-top: 29px;
+    font-size: 17px;
+}
+
+.who {
+    padding-top: 155px;
+    margin-left: -65px;
+}
+
+.service {
+    font-weight: 400;
+}
+
+#jagz {
+    padding-top: 285px;
+}
+
+.skip {
+    padding-top: 25px;
+    font-weight: 200;
+}
+
+#july2 {
+    font-weight: 200;
+    font-size: 18px;
+    color: rgb(240, 236, 236);
+    padding-top: 20px;
+}
+
+.auto {
+    color: #717070;
+    padding-top: 10px;
+    font-weight: 300;
+}
+
+.miracle {
+    padding-top: 15px;
+}
+
+#Boxx {
+    box-sizing: border-box;
+    border-radius: 10px 10px 10px 10px;
+    height: 225px;
+    padding: 30px;
+    background: linear-gradient(90deg, rgba(243,55,55,1) 57%, rgba(240,106,55,0.8869922969187675) 93%, rgba(240,106,55,0.7973564425770308) 99%);
+    color: white;
+    text-align: justify;
+    margin-top: 25px;
+}
+
+.walk {
+    padding-top: 25px;
+    font-weight: 100;
+}
+
+.worka {
+    background-color: #f9efef;
+    height: 600px;
+    margin-top: -50px;
+}
+
+.address {
+    color: #f33737;
+    text-align: justify;
+    margin-top: -15px;
+}
+
+.contact {
+    text-align: left;
+    padding: 120px;
+    margin-left: 15px;
+    font-weight: 30
+}
+
+#ress {
+    text-align: justify;
+    font-weight: 200;
+}
+
+#mail {
+    font-size: 17px;
+}
+
+#footer-img {
+    margin-left: -65px;
+}
+
+.quick-links {
+    display: flex;
+    padding-left: 100px;
+    margin-left: 114px;
+}
+
+.quick-links ul {
+    display: flex;
+}
+
+.quick-items {
+    list-style: none;
+}
+
+.quick-items a {
+    text-decoration: none;
+    padding: 0px 7px;
+    font-size: 18px;
+    color: #212529;   
+}
+
+.outer-footer {
+    padding-left: 100px;
+    padding-top: 37px;
+    font-size: 15px;
+    font-weight: 100;
+    text-align: right;
+}
+
+.site-footer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.footer-logo {
+    margin-top: 50px;
+}
+
+.quadrant {
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-top: 50px solid #555;
+}
+
+.map {
+    margin-top: -80px;
+    margin-left: 70px;
+}
